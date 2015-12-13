@@ -1,0 +1,19 @@
+{
+  "name": "stream-to-server",
+  "version": "1.0.0",
+  "description": "Streams audio to the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armackey/stream_to_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armackey/stream_to_server/issues"
+  },
+  "homepage": "https://github.com/armackey/stream_to_server#readme"
+}
